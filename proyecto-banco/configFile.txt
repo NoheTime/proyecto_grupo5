@@ -1,0 +1,4 @@
+Nombre del banco: Banco Nacional
+Cajas estandar: 2
+Cajas preferenciales: 1
+Cajas rapidas: 1
